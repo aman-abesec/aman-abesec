@@ -28,6 +28,6 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=aman-abesec&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=aman-abesec&theme=radical&hide_border=true" alt="aman-abesec" />
-
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-abesec&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact" alt="aman-abesec" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=aman-abesec&theme=radical&hide_border=true" alt="aman-abesec" />
