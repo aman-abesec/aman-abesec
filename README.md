@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/immortal_freak45/"><img height="30" src="https://user-images.githubusercontent.com/92168231/136589534-adec15e8-9242-4fc2-870c-5e457c5c62d7.png"></a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/aman-singh-5382351b2"><img height="30" src="https://user-images.githubusercontent.com/92168231/136589775-8a4f3075-d30c-4bfd-8a7d-d1878d35f0e2.png"></a>&nbsp;&nbsp;
    <a href="https://www.facebook.com/aman.s.shrinet.3/"><img height="30" src="https://user-images.githubusercontent.com/92168231/136590195-d25bfb6a-0665-4e5e-ade3-18e1b29bc397.png"></a>&nbsp;&nbsp;
-   <a href="mailto:aman.abesec@gmail.com"><img height="30" src="https://user-images.githubusercontent.com/92168231/187201644-a9404eba-ed95-4a96-bfe9-4629ef57d9be.png"></a>&nbsp;&nbsp;
+   <a href="mailto:aman.abesec@gmail.com"><img height="32" src="https://user-images.githubusercontent.com/92168231/187201644-a9404eba-ed95-4a96-bfe9-4629ef57d9be.png"></a>&nbsp;&nbsp;
 </p>
 
  ---
